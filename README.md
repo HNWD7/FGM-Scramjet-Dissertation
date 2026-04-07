@@ -1,0 +1,1 @@
+MATLAB thermal solver for FGM scramjet combustor wall analysis. Developed as part of a BEng General Engineering dissertation at King's College London by Hassan Wahid, 2026. Implements a backward-Euler finite-difference scheme with temperature-dependent material properties for Inconel 625/8YSZ functionally graded coatings.
